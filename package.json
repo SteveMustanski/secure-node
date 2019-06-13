@@ -12,6 +12,7 @@
   "dependencies": {
     "body-parser": "^1.17.2",
     "express": "^4.15.4",
+    "helmet": "^3.18.0",
     "mongoose": "^5.5.13",
     "nodemon": "^1.12.0"
   },
